@@ -1,4 +1,3 @@
-
-document.getElementById("ball").onclick(function dick(){
+function dick(){
 console.log('fvegtebg');
-});
+}
