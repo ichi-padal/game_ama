@@ -1,3 +1,5 @@
+
 function dick(){
-console.log('fvegtebg');
+let zalupa = this;
+zalupa.style.top = '250px';
 }
