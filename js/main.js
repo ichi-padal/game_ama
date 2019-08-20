@@ -1,5 +1,5 @@
 
 function dick(){
-let zalupa = this;
-zalupa.style.top = '250px';
+    let container = document.getElementById('ball');
+    container.style.top=250+"px"
 }

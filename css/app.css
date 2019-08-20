@@ -2,8 +2,12 @@
   width: 300px;
   height: 300px;
   background: #fa172b;
+<<<<<<< HEAD
   position: relative;
   }
+=======
+  position: relative; }
+>>>>>>> 933b6467a6e253a71780e2066f0f537905ffaa2d
 
 #ball {
   width: 50px;
@@ -11,8 +15,13 @@
   border-radius: 50%;
   background: green;
   position: absolute;
+<<<<<<< HEAD
   top:0;
   left: 0;
   }
+=======
+  top: 0;
+  left: 0; }
+>>>>>>> 933b6467a6e253a71780e2066f0f537905ffaa2d
 
 /*# sourceMappingURL=app.css.map */
