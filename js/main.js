@@ -1,3 +1,4 @@
 function dick(){
-console.log('fvegtebg');
+    let container = document.getElementById('ball');
+    container.style.top=250+"px"
 }
